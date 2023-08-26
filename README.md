@@ -1,6 +1,6 @@
 ![Samples of my personal work](./gamesbanner.png)
 
-# Hello, my name is Jackson Levine. I love programming!
+# Hello, my name is Jackson Levine
 
 Welcome to my Github! I primarily work in C++, JavaScript, and sometimes Python, and I program a lot of things, including game prototypes and tech demos.
 
