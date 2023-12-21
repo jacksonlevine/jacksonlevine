@@ -2,7 +2,7 @@
 
 # Hello, my name is Jackson Levine
 
-Welcome to my Github! I primarily work in C++, JavaScript, and sometimes Python, and I program a lot of things, including game prototypes and tech demos.
+Welcome to my Github! I primarily work in C++ and JavaScript, and I program a lot of things, including game prototypes and tech demos.
 
 Feel free to check out and take from whatever you find interesting! Here are some of my personal favorites:
 
