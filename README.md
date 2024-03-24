@@ -2,39 +2,29 @@
 
 # Hello, my name is Jackson Levine
 
-Welcome to my Github! I primarily work in C++ and JavaScript, and I program a lot of things, including game prototypes and tech demos.
+Welcome to my Github! I program as a job and a hobby.
 
 Feel free to check out and take from whatever you find interesting! Here are some of my personal favorites:
 
-## [MimosDono 23](https://github.com/jacksonlevine/MimosDono23)
+## [PictoSend RS](https://github.com/jacksonlevine/pictosend-rs)
 
-Code name for iteration #23 of an open-world sandbox game with procedural terrain. Includes a Python modding API and multiplayer with a "head" server for storing public server addresses and delivering to the client.
+A basic pictochat inspired messaging app with a primitive OpenGL UI, that I wrote to learn Rust.
+
+## [Powder Game](https://github.com/jacksonlevine/cpowdergame)
+
+A falling sand simulation game written in C.
+
+## [Mimodo](https://github.com/jacksonlevine/cameratest/tree/raycast)
+
+An interesting game demo using raycasting.
 
 ## [Boris Lang](https://github.com/jacksonlevine/small-lambda-calc-interpreted-lang)
 
 A simple interpreted language with a blend of Lisp and C-style syntax.
 
-## [Wellrc](https://github.com/jacksonlevine/wellrc)
-
-Another attempt at reliable AABB collisions in a voxel world. C++/OpenGL.
-
 ## [Multitrack Stems Player](https://github.com/jacksonlevine/multitrack-audio-player)
 
 A backend and frontend framework to serve individual stems of songs, and play them together with "Solo" and "Mute" options for each track.
-
-## [RaceCar](https://github.com/jacksonlevine/racecar)
-
-A clone of "Pole Position" written with C++/OpenGL that loads tracks/courses from bezier curves described in SVG files. As such, users can easily add their own tracks.
-
-## [CppGame](https://github.com/jacksonlevine/cpp-game)
-
-A 2D game with pseudo-3D effects, written in C++ with the SFML library.
-
-## [WebsiteTemplate](https://github.com/jacksonlevine/htmxnext-not-)
-
-A basic but full-featured full-stack app with C++/CROW backend and added user/session storage in database, registered-user-only content, password hashing with libsodium, and HTMX front-end.
-
-![Some languages and frameworks I know!](./langsbanner.png)
 
 Thank you for checking out my Github! Feel free to contact me at jack@netbug.us
 Have a great day.
