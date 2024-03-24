@@ -6,6 +6,10 @@ Welcome to my Github! I program as a job and a hobby.
 
 Feel free to check out and take from whatever you find interesting! Here are some of my personal favorites:
 
+## ["CleveLand", Minecraft Recreation / Minecraft-inspired Game in C++]
+
+The current product of a long self-educational journey to recreate a game like Minecraft from scratch.
+
 ## [PictoSend RS](https://github.com/jacksonlevine/pictosend-rs)
 
 A basic pictochat inspired messaging app with a primitive OpenGL UI, that I wrote to learn Rust.
