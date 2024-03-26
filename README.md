@@ -8,7 +8,7 @@ Feel free to check out and take from whatever you find interesting! Here are som
 
 ## ["CleveLand", Minecraft Recreation / Minecraft-inspired Game in C++](https://github.com/jacksonlevine/CleveLand)
 
-The current product of a long self-educational journey to recreate a game like Minecraft from scratch.
+The current product of a long self-educational journey to recreate a game like Minecraft from scratch with no engine, using only graphics APIs.
 
 ## [PictoSend RS](https://github.com/jacksonlevine/pictosend-rs)
 
