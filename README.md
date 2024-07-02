@@ -10,7 +10,7 @@ Feel free to check out and take from whatever you find interesting! Here are som
 
 The current product of a long self-educational journey to recreate a game like Minecraft from scratch with no engine, using only graphics APIs.
 
-Update: I have rewritten and hugely improved this project under the following repo: [VoxelLand](https://github.com/jacksonlevine/pictosend-rs)
+Update: I have rewritten and hugely improved this project under the following repo: [VoxelLand](https://github.com/jacksonlevine/voxelland)
 
 ## [PictoSend RS](https://github.com/jacksonlevine/pictosend-rs)
 
