@@ -6,11 +6,9 @@ Welcome to my Github! I program as a job and a hobby.
 
 Feel free to check out and take from whatever you find interesting! Here are some of my personal favorites:
 
-## ["CleveLand", Minecraft Recreation / Minecraft-inspired Game in C++](https://github.com/jacksonlevine/CleveLand)
+## ["Distant Garden", 3D Procedural Game rendered with OpenGL (Originally "Cleveland" in C++ and several other iterations before)](https://github.com/jacksonlevine/distgard)
 
-The current product of a long self-educational journey to recreate a game like Minecraft from scratch with no engine, using only graphics APIs.
-
-Update: I have rewritten and hugely improved this project under the following repo: [VoxelLand](https://github.com/jacksonlevine/voxelland)
+The current latest iteration of a long self-educational journey to create a block-based world like Minecraft from scratch with no game engine for rendering, using only graphics APIs. Currently migrating a majority of the business logic to take advantage of Bevy Engine!
 
 ## [PictoSend RS](https://github.com/jacksonlevine/pictosend-rs)
 
