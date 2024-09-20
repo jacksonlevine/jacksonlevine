@@ -6,7 +6,7 @@ Welcome to my Github! I program as a job and a hobby.
 
 Feel free to check out and take from whatever you find interesting! Here are some of my personal favorites:
 
-## ["Distant Garden", 3D Procedural Game rendered with OpenGL (Originally "Cleveland" in C++ and several other iterations before)](https://github.com/jacksonlevine/distgard)
+## ["Distant Garden", 3D procedural game in Rust, rendered with OpenGL (Originally "Cleveland" in C++ and several other iterations before)](https://github.com/jacksonlevine/distgard)
 
 The current latest iteration of a long self-educational journey to create a block-based world like Minecraft from scratch with no game engine for rendering, using only graphics APIs. Currently migrating a majority of the business logic to take advantage of Bevy Engine!
 
