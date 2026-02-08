@@ -2,4 +2,4 @@
 
 # Hello, my name is Jackson Levine
 
-Welcome to my Github! I program as a hobby.
+Welcome to my Github! I program.
